@@ -1,6 +1,7 @@
 # Важинский Евгений Python Developer
 
-jone20101@gmail.com
+[jone20101@gmail.com](mailto:jone20101@gmail.com)
+
 
 ## Текущий стек:
 - **asyncio**  
